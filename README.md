@@ -4,7 +4,7 @@
 ![GitHub watchers](https://img.shields.io/github/watchers/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
 ![GitHub forks](https://img.shields.io/github/forks/cavidsuleyman/SADE-HOM-PAGE?style=for-the-badge)
 
-  # Animation-calculator
+  # Ballon-Game
 
 Hello, welcome to this lesson. Today I create with html, css and js file for Ballon-GAME. I use here html, css and js tags. 
 ## ## RULES OF USE
